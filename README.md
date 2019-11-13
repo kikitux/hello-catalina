@@ -2,4 +2,6 @@
 the amazing description goes here
 
 ## TODO
-- [ ] add hello.sh that prints hello
+
+## DONE
+- [x] add hello.sh that prints hello
